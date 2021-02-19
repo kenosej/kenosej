@@ -8,7 +8,7 @@ Here you'll find some of the projects I've uploaded publicly to Github.
 
 ### I'm currently
 
-Learning Java and German and looking for a freelance work
+Learning C++ and German
 
 ---
 
