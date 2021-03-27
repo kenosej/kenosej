@@ -41,7 +41,7 @@ My skills:
 
 Connect with me:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kenan-sejmenovi%C4%87-0a5a4a1ab/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kenosej/)
 
 ---
 
