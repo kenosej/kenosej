@@ -1,12 +1,6 @@
 ## Hello, I'm Kenan Sejmenović 👋👋
 
-### Student. Very passionate about solving problems with IT.
-
----
-
-### I'm currently
-
-Learning Flutter
+### Software engineer
 
 ---
 
